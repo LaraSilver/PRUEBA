@@ -14,6 +14,7 @@ public class Ventanas {
 		VentanaCentrada vCentro = new VentanaCentrada();
 		
 		System.out.println("CAMBIO PARA VER GITHUB");
+		System.out.p`rintln("Cambio DESDE el editor github");
 	}
 
 	 static class VentanaA extends JFrame {
