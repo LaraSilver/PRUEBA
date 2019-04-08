@@ -12,6 +12,8 @@ public class Ventanas {
 	public static void main(String[] args) {
 		VentanaA ventana = new VentanaA();
 		VentanaCentrada vCentro = new VentanaCentrada();
+		
+		System.out.println("CAMBIO PARA VER GITHUB");
 	}
 
 	 static class VentanaA extends JFrame {
